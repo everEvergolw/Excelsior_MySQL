@@ -6,7 +6,7 @@ This report provides detailed insights into various aspects of SQL and relationa
 
 ### Report Image
 
-![Project Image](cover.jpg) 
+<img src="cover.jpg" width="400">
 
 
 ### Report Contents
