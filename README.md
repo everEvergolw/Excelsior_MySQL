@@ -6,8 +6,8 @@ This report provides detailed insights into various aspects of SQL and relationa
 
 ### Report Image
 
-![Project Image](path_to_your_image.jpg) 
-<!-- Replace 'path_to_your_image.jpg' with the actual path or URL of your image -->
+![Project Image](cover.jpg) 
+
 
 ### Report Contents
 
